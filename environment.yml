@@ -1,0 +1,15 @@
+channels:
+  - defaults
+dependencies:
+  - python=3.12
+  - pip
+  - pip:
+      - ipykernel
+      - jupyter
+      - pylance
+      - numpy
+      - pandas
+      - matplotlib
+      - seaborn
+      - basemap
+      - pillow
